@@ -3,11 +3,11 @@
   <title>明于</title>
   
   <subtitle>加油折腾，好好学习</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://mysqlgiao.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://mysqlgiao.github.io/"/>
   <updated>2022-09-17T07:52:30.372Z</updated>
-  <id>http://example.com/</id>
+  <id>https://mysqlgiao.github.io/</id>
   
   <author>
     <name>纪棠</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/undefined/4a17b156.html"/>
-    <id>http://example.com/undefined/4a17b156.html</id>
+    <link href="https://mysqlgiao.github.io/undefined/4a17b156.html"/>
+    <id>https://mysqlgiao.github.io/undefined/4a17b156.html</id>
     <published>2022-09-17T07:19:05.118Z</published>
     <updated>2022-09-17T07:52:30.372Z</updated>
     

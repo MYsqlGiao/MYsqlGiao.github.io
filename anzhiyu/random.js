@@ -1,0 +1,1 @@
+var posts=["undefined/cisco.html","undefined/linux.html","undefined/python.html","undefined/winserver.html","undefined/time.html"];function toRandomPost(){pjax.loadUrl("/"+posts[Math.floor(Math.random()*posts.length)])}
